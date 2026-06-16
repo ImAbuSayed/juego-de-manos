@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Juego de manos
+
+This log tracks the cryptographic history and versioning for the song **Juego de manos** (juego-de-manos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:31:48.062226 | `v1` | `a7f3cd1c1d3009a029c7c360e50372ec5595df4a32213f4c9264665622417ff3` | `f030e92cb39c7757a6b827be4a119efbbe4af42729a841784bc9eb8bdb171353` | `2026-06-16_juego-de-manos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
