@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juego-de-manos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Juego de manos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-manos/) |
+| **Get License** | [Request Licensing for Juego de manos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-manos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Juego de manos, miradas que no mienten
+> Baby, yo sé muy bien lo que tú sientes
+> Esta noche la disco es nuestra guarida
+> Bailando suave, tú curas mis heridas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
